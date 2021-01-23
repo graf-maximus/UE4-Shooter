@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{66246243-4E88-F8FB-5B21-4884EA8498E3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Educat_MultiShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+}
